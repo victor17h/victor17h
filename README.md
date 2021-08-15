@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="victor17h | LinkedIn" width="22px" src="server.png" />][https://www.linkedin.com/in/victor--novoa/]
+[<img align="left" alt="victor17h | LinkedIn" width="22px" <i class="fa-solid fa-database"></i> />][https://www.linkedin.com/in/victor--novoa/]
 
 <br />
 
