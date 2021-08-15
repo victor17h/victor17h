@@ -13,4 +13,4 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="C:\Users\Windows 10\1200px-Python-logo-notext.svg.ico" />]
+[<img align="left" alt="Python" width="26px" src="![python_104451](https://user-images.githubusercontent.com/74541774/129478367-1eb4e473-972d-447a-8b4b-9f552db804b2.png)" />]
