@@ -6,7 +6,8 @@
 - ⚡ Fun facts: I love to do sports and play piano
 
 ### Connect with me:
-[<img align="left" alt="victor17h | LinkedIn" width="22px" src="https://www.linkedin.com/in/victor--novoa" />][linkedin]
+
+[<img align="left" alt="victor17h | LinkedIn" width="22px" src="server.png" />]
 
 <br />
 
