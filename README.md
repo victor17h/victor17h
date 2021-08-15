@@ -15,4 +15,4 @@
 
 [<img align="left" alt="Python" width="26px" src="https://user-images.githubusercontent.com/74541774/129478367-1eb4e473-972d-447a-8b4b-9f552db804b2.png" />]()
 [<img align="left" alt="SQL" width="26px" src="https://user-images.githubusercontent.com/74541774/129478572-05b31cd9-dfe5-4e65-a224-dbc73ec984e3.png" />]()
-[<img align="left" alt="SQL" width="26px" src="(https://user-images.githubusercontent.com/74541774/129478895-349643b4-20bd-4570-9766-c9824c2eb7d6.png)" />]()
+[<img align="left" alt="Excel" width="26px" src="https://user-images.githubusercontent.com/74541774/129478895-349643b4-20bd-4570-9766-c9824c2eb7d6.png" />]()
