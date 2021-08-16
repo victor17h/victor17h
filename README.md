@@ -3,7 +3,7 @@
 ## I'm an Aerospace Engineer Graduate very interested in data and Python.
 - 🌱 I’m currently learning as much as possible
 - 🥅 2021 Goals: Create more projects and improve in Python
-- ⚡ Fun facts: I love to do sports and play piano
+- ⚡ Fun facts: I love doing sports and playing piano
 
 ### Connect with me:
 
