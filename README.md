@@ -1,9 +1,9 @@
 ### Hi there, I'm Victor 
 
 ## I'm an Aerospace Engineer Graduate very interested in data and Python.
-- 🌱 I’m currently learning as much as possible
-- 🥅 2021 Goals: Create more projects and improve in Python
-- ⚡ Fun facts: I love doing sports and playing piano
+- 🌱 I’m currently learning as much as possible.
+- 🥅 2021 Goals: Create more projects, improve in Python and learn more about data.
+- ⚡ Fun facts: I love doing sports and playing piano.
 
 ### Connect with me:
 
